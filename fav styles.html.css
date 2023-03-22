@@ -1,0 +1,93 @@
+@charset "utf-8";
+body {
+}
+footer {
+    padding-top: 5px;
+    background-color: #F8F022;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-style: oblique;
+    font-variant: normal;
+}
+header h2 {
+    color: #070700;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    font-weight: 300;
+}
+.row .col-lg-12 p {
+}
+header {
+    background-image: url(file:///C|/Users/cutnu/OneDrive/Desktop/SPRING%202023/url);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    background-color: #F8F022;
+    color: #F8F022;
+}
+
+
+
+nav.container {
+    background-color: #DFEC39;
+}
+
+header {
+    background-image: url(file:///C|/Users/cutnu/Downloads/header%20OFFIC.jpg);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #000000;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 300;
+    font-size: x-large;
+    background-color: #DFEC39;
+}
+div.container {
+}
+.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+    background-color: #DFEC39;
+    background-image: url(file:///C|/Users/cutnu/Downloads/header%20OFFIC.jpg);
+}
+.card .card-body .card-title {
+    color: #F8F022;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-shadow: 1px 0px;
+    font-size: xx-large;
+}
+body table {
+    color: #F7FD0D;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: thick groove #F8D20C;
+    border-spacing: px 2px;
+    background-color: #000000;
+}
+tbody tr td {
+    color: #F8EF04;
+    text-align: center;
+    text-shadow: 0px 0px #000000;
+}
+
+
+.carousel-item.active .carousel-caption.d-none.d-md-block .container {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+}
+.carousel-item .carousel-caption.d-none.d-md-block h5 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-align: left;
+    font-style: italic;
+}
+.card-body {
+}
+.wrapper .container {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.wrapper .container {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    text-align: right;
+}
+.wrapper .container {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    border: thick dashed #FBAC03;
+}
