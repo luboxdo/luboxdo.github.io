@@ -8,6 +8,18 @@ footer {
     font-style: oblique;
     font-variant: normal;
 }
+.wrapper div div {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    text-align: center;
+}
+body div a {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    text-align: center;
+}
+
+
 header h2 {
     color: #070700;
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
@@ -21,6 +33,7 @@ header {
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
     background-color: #F8F022;
     color: #F8F022;
+    margin-top: 2.6px;
 }
 
 
@@ -41,10 +54,30 @@ header {
 }
 div.container {
 }
-.navbar.navbar-expand-lg.navbar-dark.bg-dark {
+.navbar.navbar-expand-lg.navbar-dark.bg-dark.align-top {
     background-color: #DFEC39;
     background-image: url(file:///C|/Users/cutnu/Downloads/header%20OFFIC.jpg);
 }
+.navbar-nav.mr-auto .nav-item .nav-link {
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+}
+
+a:link, a:visited {
+    color: #000;
+}
+
+.navbar.navbar-expand-lg.navbar-dark.bg-dark.align-top {
+    background-color: #DFEC39;
+    background-image: url(file:///C|/Users/cutnu/Downloads/header%20OFFIC.jpg);
+    color: #000;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.wrapper a .rounded-circle.img-fluid {
+    text-align: center;
+    margin-left: 150px;
+}
+
 .card .card-body .card-title {
     color: #F8F022;
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
@@ -90,4 +123,13 @@ tbody tr td {
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
     font-style: italic;
     border: thick dashed #FBAC03;
+}
+.wrapper div p {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+}
+ol div strong {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.wrapper a .rounded-circle.img-fluid {
 }
