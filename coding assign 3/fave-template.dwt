@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title>MC 327 coding assignment</title>
+  <meta name="description" content="This is coding assignment 2">
+<!-- TemplateEndEditable -->
+  
+  <!-- Bootstrap -->
+  <link href="file:///C|/Users/cutnu/OneDrive/Documents/css/bootstrap-4.4.1.css" rel="stylesheet">
+  <link href="fav styles.html.css" rel="stylesheet" type="text/css">
+  <!-- TemplateParam name="OPTIONAL" type="boolean" value="false" -->
+  <!-- TemplateBeginEditable name="head" -->
+  <!-- TemplateEndEditable -->
+  </head>
+  <body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container"> <a class="navbar-brand" href="#">L.Boxdorfer&nbsp;</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"> <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a> </li>
+          <li class="nav-item"> <a class="nav-link" href="#">Event&nbsp;</a> </li>
+          
+          <li class="nav-item"> <a class="nav-link" href="#">Brand&nbsp;</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="#">Research&nbsp;</a></li>
+          <li class="nav-item"> </li>
+          <li class="nav-item"> </li>
+        </ul>
+        <form class="my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+  <header class="row">
+    <div class="col-lg-12">
+      <h2 class="text-center">Lucia Boxdorfer&nbsp;</h2>
+      <p class="text-center">College Student, Cosplayer, Cat Lover&nbsp;</p>
+    </div>
+  </header>
+  <!-- TemplateBeginIf cond="OPTIONAL" --><!-- TemplateBeginEditable name="EditRegion2" -->
+  <div class="container mt-3">
+    <div class="row">
+      <div class="col-12">
+        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner">
+          <div class="carousel-item active">
+<div class="carousel-caption d-none d-md-block">
+  <p class="container">QUOTES:<br>
+    &quot;Always believe in yourself, do this and no matter where you are, you will have nothing to fear.&quot; - Baron, The Cat Returns</p>
+</div>
+            </div>
+            <div class="carousel-item">
+<div class="carousel-caption d-none d-md-block">
+              <h5>&quot;All things bright and beautiful, all things great and small, all things wise and wonderful, the Lord God made them all.&quot; - William Monk</h5>
+              </div>
+            </div>
+            <div class="carousel-item">
+<div class="carousel-caption d-none d-md-block">
+              <h5>Item 3 Heading</h5>
+                <p>Item 3 Description</p>
+              </div>
+            </div>
+          </div>
+          <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span></a></div>
+      </div>
+    </div>
+    <hr>
+  </div>
+  <!-- TemplateEndEditable --><!-- TemplateEndIf --> <!-- TemplateBeginEditable name="MAINCONTENT" -->
+  <div class="wrapper">
+    <div class="container">&nbsp;</div>
+</div>
+  <!-- TemplateEndEditable -->
+
+
+<div class="container">
+  <div class="row text-center">
+<div class="col-md-4 pb-1 pb-md-0 col-lg-12">
+      <div class="card">
+<div class="card-body">
+          <h5 class="card-title">&nbsp;ABOUT LUCIA BOXDORFER&nbsp;</h5>
+          <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eget nulla libero. Pellentesque faucibus diam in augue tristique efficitur. Nullam congue fermentum diam vel semper. Proin pulvinar vitae sapien ac vulputate. Proin efficitur, orci non pellentesque semper, urna urna convallis lectus, id tincidunt diam neque id metus. Donec vel vehicula eros, nec dapibus arcu. Nullam a libero malesuada, dictum justo vel, vehicula sem.&nbsp;</p>
+              <p class="card-text">Cras tortor tortor, facilisis eget sollicitudin sit amet, efficitur eu velit. Duis nec auctor nibh, et gravida ante. Aenean euismod porta viverra. Nulla at dolor a massa placerat consequat tempor id diam. In vel tempus dolor. Aenean lobortis quam sit amet sem mollis lacinia. Aenean at nisl tempor, blandit mauris eu, iaculis est. Proin sollicitudin non libero ut viverra. Nulla vel nulla vitae sem ultricies viverra. Quisque eu sagittis urna, sit amet viverra nisi. Pellentesque vitae dapibus est, eget maximus ante. Nulla sodales dictum hendrerit. Suspendisse potenti. Nullam et tempus nulla. Cras porta ut elit ac vulputate&nbsp;</p>
+</div>
+      </div>
+    </div>
+</div>
+</div>
+<div class="container text-white bg-dark p-4">
+  <div class="row">
+        <div class="col-6 col-md-8 col-lg-12">
+          <div class="row text-center">
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <a>Link anchor</a> </li>
+                <li class="btn-link"> </li>
+ </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <a>Link anchor</a> </li>
+                <li class="btn-link"> </li>
+              </ul>
+            </div>
+            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+              <ul class="list-unstyled">
+                <li class="btn-link"> <a>Link anchor</a> </li>
+                <li class="btn-link"> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-lg-12 col-6 row">
+          <address class="col-lg-6">
+            <strong>Lucia Boxdorfer&nbsp;</strong>&nbsp;-&nbsp;https://www.tiktok.com/@teakup.cos
+                        <br>
+            Alton, IL, 62002&nbsp;<br>
+            <abbr title="Phone">P:</abbr> (111)-111-1111
+          </address>
+          <address class="col-lg-6">
+          <strong>Contact Me</strong><br>
+          <a href="mailto:#">luboxdo@siue.edu&nbsp;</a>
+          </address>
+</div>
+  </div>
+  </div>
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <p>© 2022 Lucia Boxdorfer</p>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="file:///C|/Users/cutnu/OneDrive/Documents/js/jquery-3.4.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="file:///C|/Users/cutnu/OneDrive/Documents/js/popper.min.js"></script>
+    <script src="file:///C|/Users/cutnu/OneDrive/Documents/js/bootstrap-4.4.1.js"></script>
+  </body>
+</html>
