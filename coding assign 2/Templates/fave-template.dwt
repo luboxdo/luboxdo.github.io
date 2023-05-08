@@ -73,11 +73,11 @@
     </div>
     <hr>
   </div>
-  <!-- TemplateEndEditable --><!-- TemplateEndIf --> <!-- TemplateBeginEditable name="MAINCONTENT" -->
+  <!-- TemplateEndEditable --><!-- TemplateEndIf --> 
+	  <!-- TemplateBeginEditable name="MAINCONTENT" -->
   <div class="wrapper">
     <div class="container">&nbsp;</div>
 </div>
-  <!-- TemplateEndEditable -->
 
 
 <div class="container">
@@ -93,6 +93,8 @@
     </div>
 </div>
 </div>
+	  
+  <!-- TemplateEndEditable -->
 <div class="container text-white bg-dark p-4">
   <div class="row">
         <div class="col-6 col-md-8 col-lg-12">
